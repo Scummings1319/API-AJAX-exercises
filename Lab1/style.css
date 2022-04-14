@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(251, 174, 174);
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  margin-left: 100px;
+}
+div {
+  background-color: rgb(224, 190, 255);
+  display: flex;
+  align-items: center;
+}
+h2 {
+  color: rgb(224, 109, 109);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+img {
+  width: 300px;
+}
+a {
+  font-size: 20px;
+  color: rgb(181, 138, 74);
+  margin-bottom: 10px;
+}
